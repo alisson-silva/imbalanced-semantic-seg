@@ -1,1 +1,1 @@
-# umbalanced-semantic-seg
+# imbalanced-semantic-seg
